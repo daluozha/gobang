@@ -1,6 +1,6 @@
 import { BOARD_GRIDS_COUNT, CHESS_SHAPE_SEARCH_RANGE, CHESS_TYPE_CROSS, CHESS_TYPE_CIRCLE } from '../constant'
 import { CHESS_CROSS_SHAPES, CHESS_CIRCLE_SHAPES } from './chessShape'
-import { occurrences } from '../util'
+// import { occurrences } from '../util'
 
 export function calculateSingleChessShapes (chessType, boardGrids, position) {
   // 找出某个棋格周围四个方向的棋子形成的棋型数量及类型
