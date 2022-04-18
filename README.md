@@ -12,7 +12,7 @@
 
 ## 启动
 
-npm run start
+npm run dev
 
 > open `localhost:8080` and enjoy it !
 

@@ -3,7 +3,7 @@ import Scene from './scene'
 import Board from './board'
 import Player from './player'
 import AI from './ai/ai'
-import { checkChessShape, calculateSingleChessShapes } from './ai/situation'
+import { calculateSingleChessShapes } from './ai/situation'
 import {
   CHESS_TYPE_CROSS,
   CHESS_TYPE_CIRCLE,
