@@ -14,14 +14,12 @@
 
 npm run dev
 
-> open `localhost:8080` and enjoy it !
-
 ## 打包
 
 npm run build
 
 ## TODO
-
+- [x] luozha - 将项目从 webpack 迁移到 vite
 - [x] 添加最后落子提示
 - [ ] loading动画
 - [ ] 走棋提示
