@@ -2,7 +2,7 @@
 
 一个五子棋AI，使用原生JavaScript开发
 
-试玩：https://csdoker.github.io/gobang/
+试玩：https://www.daluozha.cn/gobang/
 
 ## 介绍
 
@@ -20,6 +20,7 @@ npm run build
 
 ## TODO
 - [x] luozha - 将项目从 webpack 迁移到 vite
+- [x] 将主分支从 master 切换到 main 
 - [x] 添加最后落子提示
 - [ ] loading动画
 - [ ] 走棋提示
